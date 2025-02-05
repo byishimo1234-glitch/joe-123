@@ -1,0 +1,6 @@
+#!/bin/bash 
+mkdir d1
+vi d1/file1
+echo "my first directory"
+read "do you want to make another directory"
+echo "$ i can make more direftories"
